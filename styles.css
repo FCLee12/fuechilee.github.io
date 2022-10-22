@@ -1,0 +1,81 @@
+.italics {
+    font-style:italic
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -.5rem;
+    margin-top: -.7rem;
+}
+
+#containerskills {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -.75rem;
+    margin-top: -.75rem;
+}
+
+#papyrus {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/uploads/papyrus.png");
+    align-content: center;
+    margin: 3rem 6rem;
+    box-shadow: 8px 8px 10px #00001A;
+    border: 1px solid rgba(240,240,144,.5);
+}
+
+#colorlayer {
+    background-color: rgba(240,240,144,0.67);
+    padding: 1.5rem 3.5rem;
+}
+
+#skills {
+    margin-top: -.1rem;
+    margin-bottom: 2.2rem;
+}
+
+#education {
+    margin-bottom: .8rem;
+}
+
+#education p {
+    margin-bottom: .2rem;
+}
+
+#workexperience p {
+    margin-bottom: .2rem;
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: .8rem;
+    text-align: center;
+}
+
+#contact p {
+    margin-top: -.3rem;
+    margin-bottom: .6rem;
+}
+
+#containerHeader {
+    display: flex;
+    justify-content: center;
+    margin-bottom: -.5rem;
+    margin-top: -.7rem;
+}
+
+h1 {
+    margin-bottom: .5rem;
+    font-size: 2rem;
+}
+
+h2 {
+    border-bottom: 2px solid black;
+    margin-bottom: -.2rem;
+    margin-top: -.2rem;
+}
+
+body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/uploads/denim.png");
+}
